@@ -1,0 +1,23 @@
+*** Settings ***
+Library           SeleniumLibrary
+
+*** Keywords ***
+打开浏览器
+
+最大化浏览器
+
+输入用户名
+    [Arguments]    ${user}
+
+输入密码
+    [Arguments]    ${password}
+
+点击登录
+
+检查登录成功
+
+检查登录失败
+
+测试失败时调用
+
+关闭浏览器

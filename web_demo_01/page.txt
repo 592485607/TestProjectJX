@@ -1,0 +1,12 @@
+*** Settings ***
+Library           SeleniumLibrary
+Resource          mykeywork.txt
+
+*** Keywords ***
+登录页面
+    [Arguments]    ${user}    ${password}
+    输入用户名    ${user}
+    输入密码    ${password}
+    点击登录
+
+登录检查

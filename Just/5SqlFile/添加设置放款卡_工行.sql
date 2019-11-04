@@ -1,0 +1,12 @@
+insert into t_ContractBank values(
+'AE39402F-F218-A4BB-B9AF-28CEDB4A0FC4',
+'11788249-A658-4E64-BA3C-4B9C2C41964A',
+'F9D4BC89-3347-452A-9EA7-6EDF4A83BE14',
+'中国工商银行深圳支行',
+'6222024000055846010',
+'0',
+'1','',
+'B828EA21-0711-4FB1-ADFD-5D3CA751BE59',
+to_date(sysdate),'','',
+'+rX9qAlpS+pqsPGry5fVxmxscJcVzZsg',
+'')

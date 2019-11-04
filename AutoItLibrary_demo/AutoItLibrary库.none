@@ -1,0 +1,6 @@
+*** Settings ***
+Library           AutoItLibrary
+
+*** Test Cases ***
+Test_calc
+    Run    calc.exe    WorkingDir=C:\Windows\System32

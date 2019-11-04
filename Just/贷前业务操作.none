@@ -1,0 +1,6 @@
+*** Settings ***
+Library           AutoItLibrary
+Library           os
+
+*** Test Cases ***
+1_检查录入

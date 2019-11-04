@@ -1,0 +1,4 @@
+*** Settings ***
+Resource          flow.txt
+Resource          mykeywork.txt
+Resource          page.txt
